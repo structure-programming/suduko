@@ -1,0 +1,54 @@
+﻿  menu.cpp
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(3,1): error C2653: 'menu': is not a class or namespace name
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(3,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(5,7): error C2065: 'font': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(6,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(6,23): error C2065: 'font': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(7,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(8,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(9,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(10,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(15,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(15,23): error C2065: 'font': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(16,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(17,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(18,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(19,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(24,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(24,23): error C2065: 'font': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(25,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(26,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(27,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(28,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(30,3): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(33,7): error C2653: 'menu': is not a class or namespace name
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(35,4): error C2065: 'window': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(35,16): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(39,7): error C2653: 'menu': is not a class or namespace name
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(40,2): error C2601: 'moveDown': local function definitions are illegal
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(3): message : this line contains a '{' which has not yet been matched
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(59,6): error C2653: 'menu': is not a class or namespace name
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(60,1): error C2601: 'moveUp': local function definitions are illegal
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(3): message : this line contains a '{' which has not yet been matched
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(73,1): warning C4508: 'menu': function should return a value; 'void' return type assumed
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(41,7): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(43,4): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(43,13): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(45,4): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(46,5): error C2143: syntax error: missing ';' before 'if'
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(46,9): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(48,6): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(49,11): error C2143: syntax error: missing ';' before '}'
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(51,4): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(51,13): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(61,6): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(63,3): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(63,12): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(64,3): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(65,7): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(67,4): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(69,9): error C2065: 'mainMenu': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(69,18): error C2065: 'mainMenuSelected': undeclared identifier
+C:\Users\MENNA\source\repos\Project6\Project6\menu.cpp(70,2): error C2143: syntax error: missing ';' before '}'
+  Source.cpp
+  Generating Code...
